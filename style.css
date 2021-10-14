@@ -1,0 +1,53 @@
+
+/*   this is first row css */
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li.d-1 {
+    content: ' ';
+    clear: both;
+    background: #A19CFF;
+    width: 10px;
+    padding: 25px;
+}
+li.d-2 {
+    content: ' ';
+    clear: both;
+    background: #A19CFF;
+    width: 10px;
+    padding: 25px;
+    margin: 0px 0px 0px 17px;
+    display: block;
+    overflow: hidden;
+}
+
+li.d-3 {
+    content: ' ';
+    clear: both;
+    background: #A19CFF;
+    width: 10px;
+    padding: 25px;
+    float: right;
+    display: block;
+    margin: 0px 0px 0px 1000px;
+}
+
+/*   this is second row css */
+li.r-2 {
+    content: ' ';
+    clear: both;
+    background: #A19CFF;
+    width: 10px;
+    padding: 25px;
+    margin: auto;
+}
+
+li.r-3 {
+    content: ' ';
+    clear: both;
+    background: #A19CFF;
+    width: 10px;
+    padding: 25px;
+}
